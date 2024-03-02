@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=J1 Old Footprint=USB4105-GF-A-060 New Footprint=USB4510-03-1-A
+Change Component Comment : Designator=J1 Old Comment=USB4105-GF-A-060 New Comment=USB4510-03-1-A
+Change component parameters: Designator = "J1" ("J1"); Footprint = "USB4105-GF-A-060"; UniqueID = "\PAIEXDRE" ("\PAIEXDRE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "USB4510-03-1-A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-A1B12
+Added Pin To Net: NetName=5V_IN Pin=J1-A4B9
+Added Pin To Net: NetName=GND Pin=J1-B1A12
+Added Pin To Net: NetName=5V_IN Pin=J1-B4A9

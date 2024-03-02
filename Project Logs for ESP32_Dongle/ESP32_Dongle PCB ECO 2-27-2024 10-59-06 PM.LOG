@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=ANT Pin=ANT1-1
+Removed Pin From Net: NetName=ANT Pin=ANT1-1
+Removed Pin From Net: NetName=ANT Pin=ANT1-1
+Removed Pin From Net: NetName=ANT Pin=ANT1-1
+Removed Pin From Net: NetName=ANT Pin=ANT1-1
+Removed Pin From Net: NetName=ANT Pin=ANT1-1
+Removed Pin From Net: NetName=ANT Pin=ANT1-1
+Removed Pin From Net: NetName=ANT Pin=ANT1-1
+Removed Pin From Net: NetName=ANT Pin=ANT1-1
+Removed Pin From Net: NetName=ANT Pin=ANT1-1
+Removed Pin From Net: NetName=ANT Pin=ANT1-1
+Removed Pin From Net: NetName=GND Pin=ANT1-2
+Removed Member From Class: ClassName=ESP32_Dongle Member=ANT1
+Added Room: Name=ESP32_Dongle

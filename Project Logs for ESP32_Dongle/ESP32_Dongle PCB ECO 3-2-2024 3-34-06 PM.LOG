@@ -1,0 +1,14 @@
+Added Component: Designator=J1(USB4105-GF-A-060)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USB4105-GF-A-060"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-A1B12
+Added Pin To Net: NetName=5V_IN Pin=J1-A4B9
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=USB_P Pin=J1-A6
+Added Pin To Net: NetName=USB_N Pin=J1-A7
+Added Pin To Net: NetName=GND Pin=J1-B1A12
+Added Pin To Net: NetName=5V_IN Pin=J1-B4A9
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=USB_P Pin=J1-B6
+Added Pin To Net: NetName=USB_N Pin=J1-B7
+Added Member To Class: ClassName=ESP32_Dongle Member=Component J1 USB4105-GF-A-060

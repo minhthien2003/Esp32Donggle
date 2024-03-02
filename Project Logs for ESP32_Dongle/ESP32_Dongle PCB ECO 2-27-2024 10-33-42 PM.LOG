@@ -1,0 +1,375 @@
+Added Component: Designator=ANT1(ANT_IFA_USB_2_4GHZ_50R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/an/swra117d/swra117d.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C32949"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05C100JB5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C32949"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05C100JB5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C1565"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402CG3R3C500NT"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C1565"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402CG3R3C500NT"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C32949"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05C100JB5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAP_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C32949"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05C100JB5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=CN*(FPC 6 PIN)
+Added Component: Designator=D1(SM05F)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMF05C.TCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/smf05c.tct/semtech?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.co.uk/datasheet/2/761/smf05c-1278099.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SEMTECH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMF05C.TCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "947-SMF05C.TCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Semtech/SMF05C.TCT?qs=rBWM4%252BvDhIcdGOAFdL4XAA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_0603_BLUE)
+Added Component: Designator=D3(LED_0603_BLUE)
+Added Component: Designator=DIO1(DIO-SMD-123)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(BQ21040DBVR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BQ21040DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bq21040dbvr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/bq21040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BQ21040DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-BQ21040DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ21040DBVR?qs=cttFivMKqWyovUuY6Xwwcw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(esp32 c6FH4)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.ch/ProductDetail/Espressif-Systems/ESP32-C6FH4?qs=sGAEpiMZZMu3sxpa5v1qriveB5Rxa06Y9iJOmwW58jU%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-C6FH4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "356-ESP32-C6FH4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-C6FH4?qs=Imq1NPwxi77uZvg%252BuAIiXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(USB4105-GF-A-060)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USB4105-GF-A-060"; VariantName = "[No Variations]"
+Added Component: Designator=L1(IND_0402)
+Added Component: Designator=L2(IND_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C412264"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LQW15AN2N2G80D"; VariantName = "[No Variations]"
+Added Component: Designator=L3(IND_0402)
+Added Component: Designator=P1(IPXS)
+Added Component: Designator=Q1(SSM3J338R,LF-SOT23-F)
+Add component (AddParameter): Name = "Manufacturer"; Value = "SSM3J338R,LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Toshiba"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0402)
+Added Component: Designator=R2(RES_0402)
+Added Component: Designator=R3(RES_0402)
+Added Component: Designator=R4(RES_0402)
+Added Component: Designator=R5(RES_0402)
+Added Component: Designator=R6(RES_0402)
+Added Component: Designator=R7(RES_0402)
+Added Component: Designator=R8(RES_0402)
+Added Component: Designator=R9(RES_0402)
+Added Component: Designator=R10(RES_0402)
+Added Component: Designator=R11(RES_0402)
+Added Component: Designator=R12(RES_0402)
+Added Component: Designator=R13(RES_0402)
+Added Component: Designator=R14(RES_0402)
+Added Component: Designator=S1(SW-SMD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S2(SW-SMD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1(RT9193_33)
+Added Component: Designator=X1(XTAL_3225)
+Add component (AddParameter): Name = "ESR"; Value = "40R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "7pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Epson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "TSX-3225 24.0000MF15X-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "XTAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24MHz"; VariantName = "[No Variations]"
+Added Component: Designator=XT1(CRYSTAL_SMD_3.2X1.5)
+Add component (AddParameter): Name = "URL"; Value = "http://thegioiic.com/products/32-768khz-crystal-c3215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.768KHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C4-1
+Added Pin To Net: NetName=+3V3 Pin=C11-2
+Added Pin To Net: NetName=+3V3 Pin=C12-2
+Added Pin To Net: NetName=+3V3 Pin=C16-2
+Added Pin To Net: NetName=+3V3 Pin=C17-2
+Added Pin To Net: NetName=+3V3 Pin=C18-2
+Added Pin To Net: NetName=+3V3 Pin=C20-2
+Added Pin To Net: NetName=+3V3 Pin=CN*-1
+Added Pin To Net: NetName=+3V3 Pin=IC2-5
+Added Pin To Net: NetName=+3V3 Pin=IC2-20
+Added Pin To Net: NetName=+3V3 Pin=IC2-29
+Added Pin To Net: NetName=+3V3 Pin=IC2-32
+Added Pin To Net: NetName=+3V3 Pin=L3-1
+Added Pin To Net: NetName=+3V3 Pin=R7-2
+Added Pin To Net: NetName=+3V3 Pin=R8-2
+Added Pin To Net: NetName=+3V3 Pin=R9-2
+Added Pin To Net: NetName=+3V3 Pin=R12-2
+Added Pin To Net: NetName=+3V3 Pin=R13-1
+Added Pin To Net: NetName=+3V3 Pin=R14-1
+Added Pin To Net: NetName=+3V3 Pin=U1-5
+Added Net: Name=+3V3
+Added Pin To Net: NetName=5V_IN Pin=C1-1
+Added Pin To Net: NetName=5V_IN Pin=C2-1
+Added Pin To Net: NetName=5V_IN Pin=C6-1
+Added Pin To Net: NetName=5V_IN Pin=D1-6
+Added Pin To Net: NetName=5V_IN Pin=DIO1-1
+Added Pin To Net: NetName=5V_IN Pin=IC1-6
+Added Pin To Net: NetName=5V_IN Pin=Q1-G
+Added Pin To Net: NetName=5V_IN Pin=R4-2
+Added Net: Name=5V_IN
+Added Pin To Net: NetName=ANT Pin=ANT1-1
+Added Pin To Net: NetName=ANT Pin=ANT1-1
+Added Pin To Net: NetName=ANT Pin=ANT1-1
+Added Pin To Net: NetName=ANT Pin=ANT1-1
+Added Pin To Net: NetName=ANT Pin=ANT1-1
+Added Pin To Net: NetName=ANT Pin=ANT1-1
+Added Pin To Net: NetName=ANT Pin=ANT1-1
+Added Pin To Net: NetName=ANT Pin=ANT1-1
+Added Pin To Net: NetName=ANT Pin=ANT1-1
+Added Pin To Net: NetName=ANT Pin=ANT1-1
+Added Pin To Net: NetName=ANT Pin=ANT1-1
+Added Pin To Net: NetName=ANT Pin=C14-2
+Added Pin To Net: NetName=ANT Pin=L2-2
+Added Pin To Net: NetName=ANT Pin=P1-1
+Added Net: Name=ANT
+Added Pin To Net: NetName=CHIP_EN Pin=C13-2
+Added Pin To Net: NetName=CHIP_EN Pin=CN*-4
+Added Pin To Net: NetName=CHIP_EN Pin=IC2-4
+Added Pin To Net: NetName=CHIP_EN Pin=R9-1
+Added Net: Name=CHIP_EN
+Added Pin To Net: NetName=GND Pin=ANT1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=CN*-6
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=GND Pin=IC2-33
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO_8 Pin=D3-K
+Added Pin To Net: NetName=GPIO_8 Pin=IC2-14
+Added Pin To Net: NetName=GPIO_8 Pin=R14-2
+Added Net: Name=GPIO_8
+Added Pin To Net: NetName=GPIO_9 Pin=CN*-5
+Added Pin To Net: NetName=GPIO_9 Pin=IC2-15
+Added Pin To Net: NetName=GPIO_9 Pin=R12-1
+Added Net: Name=GPIO_9
+Added Pin To Net: NetName=GPIO_14_F1 Pin=C9-2
+Added Pin To Net: NetName=GPIO_14_F1 Pin=IC2-18
+Added Pin To Net: NetName=GPIO_14_F1 Pin=R7-1
+Added Pin To Net: NetName=GPIO_14_F1 Pin=S1-1
+Added Net: Name=GPIO_14_F1
+Added Pin To Net: NetName=GPIO_15_F2 Pin=C10-2
+Added Pin To Net: NetName=GPIO_15_F2 Pin=IC2-19
+Added Pin To Net: NetName=GPIO_15_F2 Pin=R8-1
+Added Pin To Net: NetName=GPIO_15_F2 Pin=S2-1
+Added Net: Name=GPIO_15_F2
+Added Pin To Net: NetName=LNA_IN Pin=C15-2
+Added Pin To Net: NetName=LNA_IN Pin=IC2-1
+Added Pin To Net: NetName=LNA_IN Pin=L2-1
+Added Net: Name=LNA_IN
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=DIO1-2
+Added Pin To Net: NetName=NetC3_1 Pin=Q1-D
+Added Pin To Net: NetName=NetC3_1 Pin=U1-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-3
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=L1-2
+Added Pin To Net: NetName=NetC7_1 Pin=X1-1
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=IC2-30
+Added Pin To Net: NetName=NetC8_1 Pin=X1-3
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=IC2-2
+Added Pin To Net: NetName=NetC19_2 Pin=IC2-3
+Added Pin To Net: NetName=NetC19_2 Pin=L3-2
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=IC2-6
+Added Pin To Net: NetName=NetC21_1 Pin=XT1-1
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=IC2-7
+Added Pin To Net: NetName=NetC22_1 Pin=XT1-2
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R1-2
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=NetD2_K Pin=IC1-3
+Added Net: Name=NetD2_K
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R13-2
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=R3-1
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=R2-1
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetIC2_16 Pin=IC2-16
+Added Pin To Net: NetName=NetIC2_16 Pin=R11-2
+Added Net: Name=NetIC2_16
+Added Pin To Net: NetName=NetIC2_17 Pin=IC2-17
+Added Pin To Net: NetName=NetIC2_17 Pin=R10-1
+Added Net: Name=NetIC2_17
+Added Pin To Net: NetName=NetIC2_31 Pin=IC2-31
+Added Pin To Net: NetName=NetIC2_31 Pin=L1-1
+Added Net: Name=NetIC2_31
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=NetJ1_A5 Pin=R6-2
+Added Net: Name=NetJ1_A5
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=NetJ1_B5 Pin=R5-2
+Added Net: Name=NetJ1_B5
+Added Pin To Net: NetName=UART0_RX Pin=CN*-2
+Added Pin To Net: NetName=UART0_RX Pin=D1-5
+Added Pin To Net: NetName=UART0_RX Pin=IC2-22
+Added Net: Name=UART0_RX
+Added Pin To Net: NetName=UART0_TX Pin=CN*-3
+Added Pin To Net: NetName=UART0_TX Pin=D1-4
+Added Pin To Net: NetName=UART0_TX Pin=IC2-21
+Added Net: Name=UART0_TX
+Added Pin To Net: NetName=USB_DN Pin=D1-1
+Added Pin To Net: NetName=USB_DN Pin=R10-2
+Added Net: Name=USB_DN
+Added Pin To Net: NetName=USB_DP Pin=D1-3
+Added Pin To Net: NetName=USB_DP Pin=R11-1
+Added Net: Name=USB_DP
+Added Pin To Net: NetName=USB_N Pin=J1-A7
+Added Pin To Net: NetName=USB_N Pin=J1-B7
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=J1-A6
+Added Pin To Net: NetName=USB_P Pin=J1-B6
+Added Net: Name=USB_P
+Added Pin To Net: NetName=V_BAT Pin=C5-1
+Added Pin To Net: NetName=V_BAT Pin=IC1-2
+Added Pin To Net: NetName=V_BAT Pin=Q1-S
+Added Pin To Net: NetName=V_BAT Pin=R1-1
+Added Net: Name=V_BAT
+Added Class: Name=ESP32_Dongle
+Added Differential Pair: Name=USB
+Added Room: Name=ESP32_Dongle

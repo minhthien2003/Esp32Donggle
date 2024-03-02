@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=CN*-
+Removed Pin From Net: NetName=GND Pin=CN*-
+Removed Pin From Net: NetName=GND Pin=J1-A1B12
+Removed Pin From Net: NetName=5V_IN Pin=J1-A4B9
+Removed Pin From Net: NetName=GND Pin=J1-B1A12
+Removed Pin From Net: NetName=5V_IN Pin=J1-B4A9
+Change Component DesignItemId : Designator=J1 Old DesignItemId=USB4510-03-1-A New DesignItemId=USB4105-GF-A-060
+Change Component Footprint: Designator=J1 Old Footprint=USB4510-03-1-A New Footprint=USB4105-GF-A-060
+Change Component Comment : Designator=J1 Old Comment=USB4510-03-1-A New Comment=USB4105-GF-A-060
+Change Component Description : Designator=J1 Old Description=USB Connector Type C SMT Mid-Mount 16 Pin New Description=USB Connector Type C SMT 12 Pin
+Change component parameters: Designator = "J1" ("J1"); Footprint = "USB4510-03-1-A"; UniqueID = "\PAIEXDRE" ("\PAIEXDRE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "USB4105-GF-A-060"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ESP32_Dongle Member=Component J1 USB4105-GF-A-060
